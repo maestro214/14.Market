@@ -1,6 +1,6 @@
-# aop-part3-chapter06 - 중고거래앱
+#  중고거래앱
 
-# 목차
+## 목차
 
 1. 인트로 (완성앱 & 구현 기능 소개)
 2. 메인 페이지 Tab UI 구성하기
@@ -14,20 +14,6 @@
 10. 어떤 것을 추가로 개발할 수 있을까?
 11. 마무리
 
-
-
-# 결과화면
-
-![1](./screenshot/1.png)
-
-
-
-![2](./screenshot/2.png)
-
-![3](./screenshot/3.png)
-
-
-
 # 이 챕터를 통해 배우는 것
 
 - **RecyclerView** 사용하기
@@ -37,6 +23,19 @@
 - **Firebase Storage** 사용하기
 - **Firebase Realtime Database** 사용하기
 - **Firebase Authentication** 사용하기
+
+
+# 결과화면
+
+![1](./screenshot/1.png)
+
+![2](./screenshot/2.png)
+
+![3](./screenshot/3.png)
+
+
+
+
 
 
 
